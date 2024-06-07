@@ -38,3 +38,8 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
+bootBuildImage {
+	imageName = "winstyngyen/${project.name}:s4"
+	builder = 'paketobuildpacks/builder:base'
+}
