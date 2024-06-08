@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to EazyBank CARDS related QA APIs "
+  contactDetails:
+    name: "Quaternion azure - Quality Assurance Manager"
+    email: "quat@eazybank.com"
+  onCallSupport:
+    - (300) 987-1234
+    - (300) 573-1375

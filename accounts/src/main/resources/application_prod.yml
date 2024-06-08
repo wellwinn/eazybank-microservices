@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Production APIs "
+  contactDetails:
+    name: "Box box - Product Owner"
+    email: "box@eazybank.com"
+  onCallSupport:
+    - (145) 987-1234
+    - (210) 573-1375

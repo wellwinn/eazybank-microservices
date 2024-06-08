@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to EazyBank LOANS PRODUCTION related APIs "
+  contactDetails:
+    name: "Product Owen - Product Owner"
+    email: "loans.product.owner@eazybank.com"
+  onCallSupport:
+    - (100) 120-1234
+    - (100) 573-1375

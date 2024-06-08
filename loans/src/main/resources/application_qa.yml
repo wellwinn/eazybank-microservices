@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: 5.0
+
+loans:
+  message: "Welcome to EazyBank QA related APIs "
+  contactDetails:
+    name: "Product Owen - QA"
+    email: "loans.quality.assurance@eazybank.com"
+  onCallSupport:
+    - (200) 120-1234
+    - (200) 573-1375
